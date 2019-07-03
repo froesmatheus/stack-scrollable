@@ -16,7 +16,9 @@ stack.add(view: view)
 
 ### Remove view
 
+```swift
 view.removeFromSuperview()
+```
 
 ## APIs
 
